@@ -1,0 +1,50 @@
+{
+  "items": [
+    {
+      "title": "Consultoria & Viabilidade",
+      "bullets": [
+        "Estimativa de geração (Solextron) com perdas por sombreamento",
+        "Cenários de consumo e projeções",
+        "Análise financeira (ROI, payback, TIR, VPL)",
+        "Relatório executivo em PDF"
+      ],
+      "sla": "até 48h"
+    },
+    {
+      "title": "Projeto FV & Homologação",
+      "bullets": [
+        "Levantamento técnico e diagrama unifilar",
+        "Projeto executivo + memorial descritivo + ART",
+        "Submissão e tratativas com a concessionária até aprovação"
+      ],
+      "sla": "até 48h (documentação)"
+    },
+    {
+      "title": "Aumento de Carga & Regularização",
+      "bullets": [
+        "Dimensionamento, projeto e documentação",
+        "Interface com a distribuidora e orientação de padrão"
+      ]
+    },
+    {
+      "title": "Desenhos Técnicos (AutoCAD)",
+      "bullets": [
+        "Detalhamento e as-built",
+        "Revisões com controle de versão"
+      ]
+    },
+    {
+      "title": "Suporte Técnico-Comercial",
+      "bullets": [
+        "Pré-vendas (propostas, memoriais, composições)",
+        "Planilhas Excel/VBA para simulações e relatórios"
+      ]
+    },
+    {
+      "title": "O&M (Inspeções & Acompanhamento)",
+      "bullets": [
+        "Checklist de inspeção, ajustes de desempenho, orientações preventivas"
+      ]
+    }
+  ]
+}

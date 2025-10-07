@@ -1,0 +1,4 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+:root{--bg:#fff;--fg:#0b3c49;--accent:#10b981;}html,body{height:100%}body{color:var(--fg);background:var(--bg)}a{text-decoration:none}.container{@apply max-w-6xl mx-auto px-4}label{@apply text-sm font-medium}input,textarea,select{@apply w-full border rounded px-3 py-2}button{@apply border rounded px-4 py-2}

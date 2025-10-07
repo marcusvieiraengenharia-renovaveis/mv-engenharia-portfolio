@@ -1,0 +1,20 @@
+{
+  "items": [
+    {
+      "title": "Residencial – Campinas/SP",
+      "power": "8 kWp",
+      "gen": "~1.050 kWh/mês",
+      "payback": "~5,2 anos",
+      "scope": "consultoria, projeto executivo, homologação e comissionamento",
+      "note": "otimização por sombreamento via Solextron"
+    },
+    {
+      "title": "Comercial – Valinhos/SP",
+      "power": "50 kWp",
+      "gen": "~6.300 kWh/mês",
+      "payback": "~4,1 anos",
+      "scope": "estudo, projeto executivo, ART e homologação",
+      "note": "documentação em 48h e aprovação sem pendências"
+    }
+  ]
+}
